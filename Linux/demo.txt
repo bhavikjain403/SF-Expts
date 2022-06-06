@@ -1,0 +1,4 @@
+This is a demo file
+It will be copied
+Number of lines will be counted
+Number of words will be counted
